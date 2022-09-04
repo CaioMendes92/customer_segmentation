@@ -105,6 +105,7 @@ As pessoas elegíveis são encontradas a partir de seus IDs
 Um total de 330 clientes.
 
 **3.** Quais as principais características desses clientes?
+
 **Cluster Insider**
 - Número de customers: 373 (12.56% dos customers)
 - Faturamento Médio: $10503,06
