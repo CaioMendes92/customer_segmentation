@@ -2,6 +2,8 @@
 
 **Disclaimer**: Todos o contexto deste projeto é completamente fictício.
 
+**Observação**: O código final, após todos os ajustes, é encontrado aqui: https://github.com/CaioMendes92/customer_segmentation/blob/main/notebooks/c9.0-cvcm-EDA.ipynb
+
 ![alt text](https://github.com/CaioMendes92/customer_segmentation/blob/main/images/programa-de-fidelidade-capa.jpg)
 
 # 1. Contexto do negócio
