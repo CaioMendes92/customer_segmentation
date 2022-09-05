@@ -45,9 +45,9 @@ Para responder estas perguntas, utiliza-se a base de dados vindas do Kaggle: htt
 * A unidade monetária utilizada foi o dólar americano.
 
 # 4. Estratégia para desenvolver a solução
-A partir do pedido da equipe de marketing e da análise dos dados, é possível observar que esse é um claro problema de clusterização. Para solucioná-lo, será usado um modelo de Machine Learning. Depois dos clusters formados, será respondido as questões levantadas pela equipe de marketing e montado um total de 8 clusters separando os clientes.
+A partir do pedido da equipe de marketing e da análise dos dados, é possível observar que esse é um claro problema de clusterização. Para solucioná-lo, será usado um modelo de Machine Learning. Depois dos clusters formados, será respondido as questões levantadas pela equipe de marketing e montado um total de nove clusters separando os clientes.
 
-Será utilizado o método cíclico CRISP-DM (Cross-Industry Process), que é um metodo de gerenciamento de projetos para ciência de dados. A vantagem desse método é que se entrega o valor de uma forma mais rápida. Foi realizado dez ciclos do CRISP para chegar na solução final do projeto, passando de uma solução de ponta-a-ponta, sem tratamento nas variáveis até a solução final, com 8 clusters segmentando os clientes.
+Será utilizado o método cíclico CRISP-DM (Cross-Industry Process), que é um metodo de gerenciamento de projetos para ciência de dados. A vantagem desse método é que se entrega o valor de uma forma mais rápida. Foi realizado dez ciclos do CRISP para chegar na solução final do projeto, passando de uma solução de ponta-a-ponta, sem tratamento nas variáveis até a solução final, com nove clusters segmentando os clientes.
 
 Para a separação dos clientes, usou-se um espaço de embedding, sendo construído por três formas diferentes: Utilizando UMAP, t-SNE e uma Randon Forest. A melhor solução encontrada foi utilizando a RF.
 
